@@ -1,0 +1,8 @@
+   # Abaikan file log  
+   *.log  
+  
+   # Abaikan folder build  
+   /build  
+  
+   # Abaikan file sementara  
+   *.tmp  
